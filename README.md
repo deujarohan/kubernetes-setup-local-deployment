@@ -1,5 +1,6 @@
 # Launch-Kubernetes----aws-cli-kubectl-minikube
 
+Hands-on Kubernetes setup and local deployment using Minikube on Windows.
 This project uses Minikube to run a local Kubernetes cluster on Windows 11.
 
 ## Kubernetes Resources Created
